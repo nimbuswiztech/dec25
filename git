@@ -3,3 +3,10 @@
 Shows the current status of the repository. This command
 shows the status of the repository and the changes that are
 currently staged or unstaged.
+
+
+git fetch 
+
+This command downloads the changes made in the
+remote repository and updates your local repository, but it
+does not merge the changes with your local branch.
